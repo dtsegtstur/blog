@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Даваасурэн Цэгцтур 
+title: Davaasuren Tsegtsur 
 
 # Name pronunciation (optional)
-name_pronunciation: Даваасурэн Цэгцтур 
+name_pronunciation: Davaasuren Tsegtsur 
 
 # Full name (for SEO)
-first_name: Даваасурэн 
-last_name: Цэгцтур 
+first_name: Davaasuren 
+last_name: Tsegtsur 
 
 # Status emoji
 status:
@@ -24,7 +24,7 @@ role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Rudn
+  - name: RUDN
     url: https://rudn.ru/
 
 # Social network links
@@ -36,9 +36,9 @@ profiles:
     url: https://scholar.google.com/
 
 interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+  - AI
+  - Management
+  - Gym
 
 education:
   - area: Student
@@ -59,42 +59,42 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Хард скиллы
+  - name: Hard Skills
     items:
       - name: Python
         description: ''
         percent: 60
         icon: code-bracket
-      - name: Переговоры
+      - name: Negotiation
         description: ''
         percent: 80
         icon: chart-bar
-      - name: DataScience
+      - name: Data Science
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Хобби
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
+      - name: Walks
         description: ''
         percent: 75
-      - name: Спортзал
+      - name: Gym
         description: ''
         percent: 100
-      - name: Языки
+      - name: Languages
         description: ''
         percent: 80
 
 languages:
-  - name: Русский
+  - name: Russian
     percent: 75
-  - name: Английский
+  - name: English
     percent: 60
-  - name: Монгольский
+  - name: Mongolian
     percent: 100
-  - name: Турецкий
+  - name: Turkish
     percent: 70
 
 # Awards.
@@ -110,6 +110,7 @@ languages:
 #    summary: 
 ---
 
-## Про меня
+## About Me
 
-Меня зовут Цэгцтур .Я родился 21 Февраля 2004 в .  Я учусь Российский университет дружбы и народов . Я приехал из Монголии Я учился в монгол турецкой школе
+My name is Tsegtsur. I was born on February 21, 2004. I study at the Russian University of Friendship of Peoples. I came from Mongolia, and I studied at a Mongolian-Turkish school.
+
